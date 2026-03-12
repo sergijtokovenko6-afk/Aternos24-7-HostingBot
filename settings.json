@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "mulnexcraft.aternos.me",
+    "port": 5647,
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
